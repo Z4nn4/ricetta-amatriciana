@@ -22,3 +22,8 @@ a{
 h1{
     text-align: center;
 }
+#selection{
+    height: 700px;
+    background-color: #333333;
+    border-radius: 40px;
+}
