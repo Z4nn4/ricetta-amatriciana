@@ -80,5 +80,10 @@ h1{
     
 }
 img{
-    width: 300px;
+    width: 400px;
+    border-radius: 80px;
+}
+p{
+    font-family:'Montserrat', sans-serif;
+    color: white;
 }

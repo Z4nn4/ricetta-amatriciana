@@ -27,3 +27,14 @@ h1{
     background-color: #333333;
     border-radius: 40px;
 }
+
+p,a,h1,h2,h3{
+    text-align: center;
+    color: white;
+    font-family:'Montserrat', sans-serif;
+}
+
+
+#ricetta1{
+    font-size: 20px;
+}
